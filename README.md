@@ -1,30 +1,29 @@
-👋 Hi, I’m @MJNSampath07
+# 👋 Hi, I’m @MJNSampath07
 
-* 👀 I’m interested in **Web Development, UI/UX Design, and Cloud Computing**
-* 🌱 I’m currently learning **Java, Full Stack Development, and Cloud Technologies**
-* 💞️ I’m looking to collaborate on **real-world projects, open-source contributions, and innovative web applications**
-* 📫 How to reach me:  [www.linkedin.com/in/mjnsampath](http://www.linkedin.com/in/mjnsampath)  
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: **I enjoy turning complex ideas into simple, user-friendly designs**
-
----
-
-🚀 About Me
-
-I’m an MCA graduate and an aspiring IT professional passionate about building intuitive and efficient digital solutions. I enjoy combining **technical skills with creative thinking** to solve real-world problems. Currently, I’m focused on strengthening my development skills and preparing for opportunities in top MNCs.
+* 👀 I’m interested in **Teaching, Software Development, and Innovation in Technology**
+* 🌱 I’m currently learning **Advanced Java, Full Stack Development, and Cloud Technologies**
+* 💞️ I’m looking to collaborate on **academic projects, research, and innovative tech solutions**
+* 📫 How to reach me:  [www.linkedin.com/in/mjnsampath](http://www.linkedin.com/in/mjnsampath)
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **I enjoy simplifying complex concepts for students and building practical solutions**
 
 ---
 
-🛠️ Skills
+### 🎓 About Me
 
-* HTML, CSS, JavaScript
-* UI/UX Design
-* Java (Basics to Advanced – Learning Phase)
-* Problem Solving
+I’m an **Assistant Professor in Computer Science** and an MCA graduate with a passion for **teaching, development, and innovation**. I focus on creating an engaging learning environment by connecting theoretical concepts with real-world applications. Alongside teaching, I actively work on enhancing my skills in modern technologies and software development.
 
 ---
 
-📈 Goal
+### 🛠️ Skills
 
-To start my career in a reputed IT company where I can grow as a developer and contribute to impactful projects.
+* Programming: Java, HTML, CSS, JavaScript
+* Teaching & Mentoring
+* UI/UX Design Basics
+* Problem Solving & Logical Thinking
 
+---
+
+### 🚀 Goal
+
+To contribute to academia through **effective teaching, continuous learning, and innovative development**, while inspiring students to build practical and impactful solutions.
